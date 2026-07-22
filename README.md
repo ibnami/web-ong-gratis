@@ -1,21 +1,21 @@
 # Página Web Gratis para Asociaciones Civiles y ONGs en México (Sin Pagar Hosting ni Saber Programar)
 
-> **Guía paso a paso y plantilla gratuita para crear, publicar y mantener el sitio web de tu fundación, club de servicio u organización sin fines de lucro a costo $0.00 pesos para siempre.**
+> **Guía paso a paso y plantilla gratuita para crear, publicar y mantener el sitio web de tu fundación, servicio u organización sin fines de lucro sin costo para siempre.**
 
 ---
 
 ## ¿Para quién es este proyecto?
 
-Este proyecto está diseñado para **directores, voluntarios, tesoreros o colaboradores** de organizaciones sin fines de lucro en México (asociaciones civiles, clubes de servicio como Kino Club, patronatos, albergues) que necesitan una página web profesional pero **no tienen presupuesto para pagar hosting mensual ni desarrolladores web**.
+Este proyecto está diseñado para **directores, voluntarios, tesoreros o colaboradores** de organizaciones sin fines de lucro en México (asociaciones civiles, servicios, patronatos, albergues) que necesitan una página web profesional pero **no tienen presupuesto para pagar hosting mensual ni desarrolladores web**.
 
 ---
 
 ## Beneficios de este sitio web
 
-* **100% Gratuito de por vida:** Hospedado en la infraestructura global de **GitHub Pages**.
-* **Sin código complejo:** Puedes editar los textos directamente desde tu navegador de internet.
+* **100% Gratuito:** Hospedado en la infraestructura global de **GitHub Pages**.
+* **Código Sencillo:** Puedes editar los textos directamente desde tu navegador de internet.
 * **Carga ultrarrápida y segura:** Incluye certificado de seguridad SSL (https://).
-* **Adaptado a celulares:** Se ve perfecto en smartphones, tabletas y computadoras.
+* **Adaptado a Mobiles:** Se ve perfecto en smartphones, tabletas y computadoras.
 
 ---
 
@@ -40,7 +40,7 @@ Haz clic en el botón **`Fork`** (Arriba a la derecha) para copiar este proyecto
 
 ## ¿Necesitas ayuda o soporte para tu organización?
 
-Si eres una asociación civil en Baja California o México y necesitas orientación técnica gratuita para poner en marcha tu sitio, puedes abrir un *Issue* en este repositorio.
+Si eres una asociación civil en México y necesitas orientación técnica gratuita para poner en marcha tu sitio, puedes abrir un *Issue* en este repositorio.
 
 ---
 
