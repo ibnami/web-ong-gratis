@@ -47,6 +47,5 @@ Si eres una asociación civil en México y necesitas orientación técnica gratu
 ## Autor
 # Miguel Angel Ibarra Navarro
 **DevOps Engineer | M.Ed.**
-📍 Rosarito, Baja California, Mexico
 💼 [LinkedIn](https://www.linkedin.com/in/miguelangelibarranavarro)  
 💻 [GitHub](https://github.com/ibnami)
