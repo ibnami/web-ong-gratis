@@ -44,9 +44,8 @@ Si eres una asociación civil en México y necesitas orientación técnica gratu
 
 ---
 
-### Creado y mantenido por:
-
-**Miguel Angel Ibarra Navarro**  
-*Ingeniero DevOps | Maestro en Educación*  
-Rosarito,, México.  
-🔗 [LinkedIn Profile](https://www.linkedin.com/miguelangelibarranavarro) | 💻 [GitHub Profile](https://github.com/ibnami)
+## Autor
+Miguel Angel Ibarra Navarro
+Ingeniero DevOps | Maestro en Educación
+Rosarito,, México.
+🔗 LinkedIn Profile | 💻 GitHub Profile
